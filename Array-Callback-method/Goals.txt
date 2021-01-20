@@ -1,0 +1,10 @@
+*Use the new arrow function syntax.
+*understand and use these methos.
+
+#forEach
+#map
+#filter
+#find
+#reduce
+#some
+#every
