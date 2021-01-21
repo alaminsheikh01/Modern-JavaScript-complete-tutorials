@@ -1,0 +1,34 @@
+/* h1 {
+  color: purple;
+  font-size: 60px;
+} */
+#dog-photo {
+}
+
+.special {
+  color: teal;
+  font-size: 30px;
+  border: 1px solid teal;
+  text-decoration: none;
+}
+
+button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  height: 40px;
+  width: 100px;
+}
+
+.box {
+  height: 40px;
+  width: 100px;
+}
+#boxes {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
